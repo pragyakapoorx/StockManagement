@@ -14,6 +14,6 @@
 
 ---
 ## 🖥️ Application Interface
-This screenshot shows the user-friendly JavaFX interface for importing and managing stock data. As this was a personal utility project focused on simplifying stock data processing, the UI intentionally prioritizes functionality over visual complexity, resulting in a minimal design.
+This screenshot shows the user-friendly JavaFX interface for importing and managing stock data. As this was a personal utility project focused on simplifying stock data processing, the minimal UI design prioritizes functionality over visual complexity.
 
 <img width="1271" height="855" alt="image" src="https://github.com/user-attachments/assets/7508e136-9892-429d-abdc-06f1a8a2b1bb" />
