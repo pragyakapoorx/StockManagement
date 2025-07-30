@@ -1,4 +1,4 @@
-
+# StockSync
 ---
 
 ## 🛠️ Technologies Used
